@@ -1,0 +1,52 @@
+.sec
+{
+background-color: #905E96;
+color:#fff;
+}
+.container-fluid
+{
+padding: 3% 10%;
+}
+.head-section
+{
+margin-top:10px;
+}
+img
+{
+padding: 10px;
+height:100%;
+width:100%;
+}
+.logo:hover
+{
+transform:scale(1.2,1.2);
+}
+h1
+{
+margin-top: 20px;
+font-family: "Ubuntu";
+font-size: 3vw;
+text-shadow:5px 5px 10px deepskyblue;
+display: inline;
+}
+.title
+{
+text-align: center;
+padding: 10px;
+}
+.download-button
+{
+margin: 5% 3% 5% 0;
+}
+fieldset {
+border: 1px solid white;
+padding: 3px;
+}
+fieldset legend {
+padding: 6px;
+font-weight: bold;
+}
+.about
+{
+margin-top:40px;
+}
